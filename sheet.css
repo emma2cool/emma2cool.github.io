@@ -31,6 +31,8 @@ h1 {
 h2 {
 	text-align: center;
 	background-color: #CACACA;
+	text-decoration: overline;
+	text-decoration: underline;
 }
 
 p {
